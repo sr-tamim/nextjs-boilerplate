@@ -12,8 +12,8 @@
     "type-check": "tsc --noEmit",
     "type-check:watch": "tsc --noEmit --watch",
     "security-check": "yarn audit --groups dependencies",
-    "format": "prettier --write \"src/**/*.{ts,tsx,js,jsx,css}\"",
-    "format-check": "prettier --check \"src/**/*.{ts,tsx,js,jsx,css}\""
+    "format": "prettier --write \"./**/*.{ts,tsx,js,jsx,css}\"",
+    "format-check": "prettier --check \"./**/*.{ts,tsx,js,jsx,css}\""
   },
   "dependencies": {
     "class-variance-authority": "^0.7.0",
