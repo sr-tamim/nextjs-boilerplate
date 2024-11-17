@@ -1,0 +1,13 @@
+{
+  "login": {
+    "title": "লগইন",
+    "email": "ইমেইল",
+    "password": "পাসওয়ার্ড",
+    "submit": "জমা দিন",
+    "forgotPassword": "পাসওয়ার্ড ভুলে গেছেন?",
+    "register": "নিবন্ধন করুন"
+  },
+  "public": {
+    "welcome": "SaleBee CRM এ আপনাকে স্বাগতম"
+  }
+}

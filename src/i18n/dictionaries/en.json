@@ -1,0 +1,13 @@
+{
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Submit",
+    "forgotPassword": "Forgot password?",
+    "register": "Register"
+  },
+  "public": {
+    "welcome": "Welcome to SaleBee CRM"
+  }
+}

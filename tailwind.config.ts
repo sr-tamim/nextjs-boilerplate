@@ -11,7 +11,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        primary: ['var(--font-jaldi)', 'sans-serif'],
+        primary: ['var(--font-jaldi)', 'var(--font-bengali)', 'sans-serif'],
       },
       colors: {
         background: 'hsl(var(--background))',
