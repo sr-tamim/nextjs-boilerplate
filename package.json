@@ -6,6 +6,7 @@
     "dev": "yarn format && next dev --turbopack",
     "build": "next build",
     "start": "next start",
+    "production": "next start -p 3000",
     "lint": "next lint",
     "lint:fix": "next lint --fix --ignore-path .gitignore .",
     "type-check": "tsc --noEmit",

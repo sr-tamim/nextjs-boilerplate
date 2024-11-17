@@ -1,0 +1,9 @@
+
+name: salebeecrm.frontend.services
+services:
+  salebeecrm.frontend:
+    container_name: salebeecrm.frontend
+    build: ./
+    ports:
+      - '127.0.0.1:3000:3000'
+    restart: always
