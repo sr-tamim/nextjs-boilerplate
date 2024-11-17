@@ -3,10 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "yarn format && next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "lint:fix": "next lint --fix --ignore-path .gitignore .",
+    "type-check": "tsc --noEmit",
+    "type-check:watch": "tsc --noEmit --watch",
+    "security-check": "yarn audit --groups dependencies",
+    "format": "prettier --write \"src/**/*.{ts,tsx,js,jsx,css}\"",
+    "format-check": "prettier --check \"src/**/*.{ts,tsx,js,jsx,css}\""
   },
   "dependencies": {
     "class-variance-authority": "^0.7.0",
@@ -25,7 +31,10 @@
     "@types/react-dom": "^18",
     "eslint": "^8",
     "eslint-config-next": "15.0.3",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
     "postcss": "^8",
+    "prettier": "^3.3.3",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
   },

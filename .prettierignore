@@ -1,0 +1,8 @@
+
+node_modules
+.vscode
+out
+dist
+public
+build
+.next
