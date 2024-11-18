@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "yarn format && next dev --turbopack",
+    "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
     "production": "next start -p 3000",
