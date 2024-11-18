@@ -1,4 +1,3 @@
-Here’s an optimized README for your repository:
 
 ---
 
