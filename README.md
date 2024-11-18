@@ -1,6 +1,4 @@
 
----
-
 # Next.js Boilerplate with ShadCN & i18n
 
 Welcome to the **Next.js Boilerplate**! This project is set up with **ShadCN** for modern UI components and **i18n** for seamless internationalization, providing a strong foundation for building scalable, multilingual web applications.
