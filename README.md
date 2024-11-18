@@ -85,8 +85,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Novo1999"><img src="https://avatars.githubusercontent.com/u/120156959?v=4?s=100" width="100px;" alt="Novodip Mondal"/><br /><sub><b>Novodip Mondal</b></sub></a><br /><a href="https://github.com/sr-tamim/nextjs-boilerplate/commits?author=Novo1999" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sr-tamim"><img src="https://avatars.githubusercontent.com/u/86656406?v=4?s=100" width="100px;" alt="Saifur Rahman Tamim"/><br /><sub><b>Saifur Rahman Tamim</b></sub></a><br /><a href="https://github.com/sr-tamim/nextjs-boilerplate/commits?author=sr-tamim" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Novo1999"><img src="https://avatars.githubusercontent.com/u/120156959?v=4?s=100" width="100px;" alt="Novodip Mondal"/><br /><sub><b>Novodip Mondal</b></sub></a><br /><a href="https://github.com/sr-tamim/nextjs-boilerplate/commits?author=Novo1999" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>

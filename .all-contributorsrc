@@ -9,17 +9,17 @@
   "commitConvention": "eslint",
   "contributors": [
     {
-      "login": "Novo1999",
-      "name": "Novodip Mondal",
-      "avatar_url": "https://avatars.githubusercontent.com/u/120156959?v=4",
-      "profile": "https://github.com/Novo1999",
-      "contributions": ["code"]
-    },
-    {
       "login": "sr-tamim",
       "name": "Saifur Rahman Tamim",
       "avatar_url": "https://avatars.githubusercontent.com/u/86656406?v=4",
       "profile": "https://github.com/sr-tamim",
+      "contributions": ["code"]
+    },
+    {
+      "login": "Novo1999",
+      "name": "Novodip Mondal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120156959?v=4",
+      "profile": "https://github.com/Novo1999",
       "contributions": ["code"]
     }
   ],
