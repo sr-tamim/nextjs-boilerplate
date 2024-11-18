@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { Jaldi, Noto_Sans_Bengali } from 'next/font/google';
 import '@/app/globals.css';
 import ThemeProvider from '@/components/layouts/ThemeProvider';
+import { ModeToggle } from '@/components/shared/ModeToggle';
 
 const jaldiFont = Jaldi({
   subsets: ['latin'],
@@ -36,6 +37,10 @@ export default function RootLayout({
       <body>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           {children}
+
+          <div className="fixed right-4 top-4">
+            <ModeToggle />
+          </div>
         </ThemeProvider>
       </body>
     </html>

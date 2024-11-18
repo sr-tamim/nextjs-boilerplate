@@ -8,5 +8,5 @@ export default async function Home({
   }>;
 }) {
   const dict = await getDictionary((await params).lang);
-  return <h1 className="text-4xl font-bold text-center">{dict.login.title}</h1>;
+  return <h1 className="text-4xl font-bold text-center my-12">{dict.login.title}</h1>;
 }
