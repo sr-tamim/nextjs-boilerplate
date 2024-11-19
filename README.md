@@ -24,16 +24,28 @@ Welcome to the **Next.js Boilerplate**! This project is set up with **ShadCN** f
 Ensure you have the following installed:
 
 - **Node.js** (version >= 16)
-- **npm**, **yarn**, **pnpm**, or **bun**
+- **Git**
+- A package manager like **npm**, **yarn**, **pnpm**, or **bun**
 
 ### Installation
 
-Clone the repository and install dependencies:
+Clone the repository:
 
 ```bash
 git clone https://github.com/sr-tamim/nextjs-boilerplate.git
+# cd into the project directory
 cd nextjs-boilerplate
+```
+Install the dependencies:
+
+```bash
 npm install
+# or
+yarn
+# or
+pnpm install
+# or
+bun install
 ```
 
 ### Running the Development Server
@@ -56,8 +68,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ## 📖 Resources
 
 - [Next.js Documentation](https://nextjs.org/docs)
-- [ShadCN GitHub Repository](https://github.com/ShadCN)
-- [i18next Documentation](https://react.i18next.com/)
+- [ShadCN Documentation](https://ui.shadcn.com/docs)
+- [i18n Documentation](https://nextjs.org/docs/app/building-your-application/routing/internationalization)
 
 ---
 
