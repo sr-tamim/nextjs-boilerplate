@@ -13,7 +13,9 @@
     "type-check:watch": "tsc --noEmit --watch",
     "security-check": "yarn audit --groups dependencies",
     "format": "prettier --write \"./**/*.{ts,tsx,js,jsx,css}\"",
-    "format-check": "prettier --check \"./**/*.{ts,tsx,js,jsx,css}\""
+    "format-check": "prettier --check \"./**/*.{ts,tsx,js,jsx,css}\"",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
   },
   "dependencies": {
     "@formatjs/intl-localematcher": "^0.5.7",
