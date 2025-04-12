@@ -2,14 +2,13 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-# Next.js Boilerplate with ShadCN & i18n
+# Next.js Boilerplate with i18n
 
-Welcome to the **Next.js Boilerplate**! This project is set up with **ShadCN** for modern UI components and **i18n** for seamless internationalization, providing a strong foundation for building scalable, multilingual web applications.
+Welcome to the **Next.js Boilerplate**! This project is set up with **i18n** for seamless internationalization, providing a strong foundation for building scalable, multilingual web applications.
 
 ## 🚀 Features
 
 - **Next.js**: A powerful React framework for production-ready applications.
-- **ShadCN Components**: Modern, reusable UI components with a consistent design system.
 - **i18n Integration**: Fully set up for multi-language support with `i18next`.
 - **TypeScript**: Fully typed for scalability and developer confidence.
 - **ESLint & Prettier**: Linting and formatting to keep the code clean and consistent.
@@ -68,7 +67,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ## 📖 Resources
 
 - [Next.js Documentation](https://nextjs.org/docs)
-- [ShadCN Documentation](https://ui.shadcn.com/docs)
 - [i18n Documentation](https://nextjs.org/docs/app/building-your-application/routing/internationalization)
 
 ---
