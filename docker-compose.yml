@@ -1,8 +1,8 @@
 
-name: salebeecrm.frontend.services
+name: wensyve.frontend.services
 services:
-  salebeecrm.frontend:
-    container_name: salebeecrm.frontend
+  wensyve.frontend:
+    container_name: wensyve.frontend
     build: ./
     ports:
       - '127.0.0.1:3000:3000'
