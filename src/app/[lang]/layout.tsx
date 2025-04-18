@@ -1,8 +1,8 @@
-import type { Metadata } from 'next';
-import { Jaldi, Noto_Sans_Bengali } from 'next/font/google';
 import '@/app/globals.css';
 import ThemeProvider from '@/components/layouts/ThemeProvider';
 import { ModeToggle } from '@/components/shared/ModeToggle';
+import type { Metadata } from 'next';
+import { Jaldi, Noto_Sans_Bengali } from 'next/font/google';
 
 const jaldiFont = Jaldi({
   subsets: ['latin'],
@@ -19,11 +19,11 @@ const notoSansBengaliFont = Noto_Sans_Bengali({
 });
 
 export const metadata: Metadata = {
-  title: 'SaleBee CRM',
-  description: 'SaleBee CRM Application',
+  title: 'Wensyve',
+  description: 'Wensyve Application',
   openGraph: {
-    title: 'SaleBee CRM',
-    description: 'SaleBee CRM Application',
+    title: 'Wensyve',
+    description: 'Wensyve Application',
   },
 };
 
