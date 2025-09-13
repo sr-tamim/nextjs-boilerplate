@@ -1,5 +1,5 @@
 # Use the official Node.js image as the base image
-FROM node:22.11.0-alpine
+FROM node:22.19.0-alpine
 
 RUN corepack enable
 
