@@ -2,7 +2,7 @@
   "name": "nextjs-boilerplate",
   "version": "0.1.0",
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "production": "next start -p 3000",
